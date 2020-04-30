@@ -8,25 +8,12 @@
 
 ----
 
-# 重要声明
 
-**看文档！看文档！看文档！**，初次使用， 请先**看文档！**
-
-1. 本项目配有相关[帮助文档](https://gitee.com/yadong.zhang/DBlog/wikis) 。文档中包括**基本的项目说明**、**shiro标签使用**、**七牛云配置**和一些常见的**异常问题解决方案**。使用时碰到问题请**优先**查阅【[帮助文档](https://gitee.com/yadong.zhang/DBlog/wikis)】。因为现在好多朋友问的问题大部分都写在【[帮助文档](https://gitee.com/yadong.zhang/DBlog/wikis)】中了，希望各位朋友能自己翻阅下相关资料，高效提问，避免重复问题！
-2. **提问题**前请优先阅读【[如何向开源社区提问题](https://github.com/seajs/seajs/issues/545)】&【[提问的智慧](http://www.dianbo.org/9238/stone/tiwendezhihui.htm)】
-3. **提问题**时请优先选择[Gitee Issues](https://gitee.com/yadong.zhang/DBlog/issues)（方便问题追踪和一对一解决），其次[我的博客-留言板](https://www.zhyd.me/guestbook)，再次QQ群（QQ群消息较多，提问请注意节奏、时机），最次加我QQ好友直接提问（不推荐）
-4. 本项目唯一官网：[https://www.zhyd.me](https://www.zhyd.me)  
-5. 本项目开源地址：[Gitee](https://gitee.com/yadong.zhang/DBlog)    | [Github](https://github.com/zhangyd-c/OneBlog)
-6. 本项目修改记录，详情请移步[这里](https://gitee.com/yadong.zhang/DBlog/blob/master/update.md)
-7. 如果你想贡献代码，请先阅读[这篇文章](https://gitee.com/yadong.zhang/DBlog/blob/master/contribution.md)
 
 ----
 
-# 写在前面的话
-ps: 虽然我知道，大部分人都是来了**直接下载源代码**后就潇洒的离开，并且只有等到下次**突然想到**“我天~~我得去看看OneBlog这烂项目更新新功能了吗”的时候才会重新来到这儿，即使你重新来过，我估计你也只有两个选择：    
 
-发现更新代码了 --> 下载源码后重复上面的步骤    
-发现没更新代码 --> 直接关闭浏览器
+
 
 虽然我知道现实就是如此的残酷，但我还是要以我萤虫之力对各位到来的同仁发出一声诚挚的嘶吼：
 
@@ -121,63 +108,16 @@ ps: 虽然我知道，大部分人都是来了**直接下载源代码**后就潇
 - [ ] 4. 待续...
 ...
 
-# Who is using?
-- [张亚东博客](https://www.zhyd.me)
-- [攻城狮不是猫博客](http://www.jsdblog.com)
-- [小公举的博客](https://loveyatou.top/)
-- [陈晓雷的博客](http://www.csxll.top)
-- [Li Pan's 博客](http://www.lipan.xyz/)
-- [MTR小站](https://www.itmtr.cn/)
-- [怀念时光](https://blog.earic.club/)
-- [Java干货铺子](http://www.itsoku.com/)
-- [介龙平博客](https://www.jlpyyf.com/)
-- [大数据施工现场](http://blog.sev7e0.site/)
-- [fireflyi博客](https://www.fireflyi.com/)
-- [AIAS编程有道](http://www.piqiandong.com/)
-- [btmcheck博客](https://btmcheck.com/)
-- [我的博客](http://www.chenyunkeji.com/)
-
-烦请各位使用OneBlog的朋友，能留下你的网址（没别的意思，只是看看有多少人而已） - [点这儿](https://gitee.com/yadong.zhang/DBlog/issues/ILIAQ)
-
-----
-
-# 交流
-
-|  微信(备注:加群)  |  公众号  |
-| :------------: | :------------: |
-| <img src="https://gitee.com/yadong.zhang/static/raw/master/wx/wx.png" width="170"/> | <img src="https://gitee.com/yadong.zhang/static/raw/master/wx/wechat_account.jpg" width="200" /> |
-
- **QQ群** 
-
-1. 1群[![](https://images.gitee.com/uploads/images/2019/0129/191256_a40bceba_784199.png)](https://shang.qq.com/wpa/qunwpa?idkey=3571c554a143eff1e15807de033a240196c6b493b25b903d1d37571cfb6040aa)（ **已升为1000人群** ）
-2. 2群[![](https://images.gitee.com/uploads/images/2019/0129/191256_a40bceba_784199.png)](https://shang.qq.com/wpa/qunwpa?idkey=38594b12fb0ec66459f0dba0316648a5c4bb71ea613289e5b57b8f44ad83ebc9)（ **人很少** ）
-
-# 赞助
-
-> 为了让OneBlog更好用，作者码代码码的头发都没了！请作者买块生姜擦擦头皮，据说这样有助于生发~~
-
-| 支付宝  | 微信  | 支付宝红包  |
-| :------------: | :------------: | :------------: |
-| <img src="https://gitee.com/yadong.zhang/static/raw/master/qrcode/zfb_code.png" width="200"/> | <img src="https://gitee.com/yadong.zhang/static/raw/master/qrcode/wx_code.png" width="200" /> | <img src="https://gitee.com/yadong.zhang/static/raw/master/qrcode/zfb-code.png" width="200" /> |
 
 
-# 生命不息，折腾不止！ 更多信息，请关注：
- 1. [我的博客](https://www.zhyd.me)
- 2. [我的微博](http://weibo.com/211230415)
- 3. [我的头条号](http://www.toutiao.com/c/user/3286958681/)
- 4. [我的imooc](http://www.imooc.com/u/1175248/articles)
+
+
+
+
+
+
+
+
+
  
-# 特别感谢
 
-- 广大的开源爱好者
-- 无私的网友
-- [gentelella](https://github.com/puikinsh/gentelella): 一款开源的Bootstrap3后台管理模板
-- [七牛云](https://portal.qiniu.com/signup?code=3l8yx2v0f21ci): 强大的对象存储、CDN等服务提供商
-- [emoji表情列表](https://github.com/caiyongji/emoji-list#nature): emoji表情列表
-- [blog-hunter](https://github.com/zhangyd-c/blog-hunter): 博客猎手，基于webMagic的博客爬取工具，支持慕课、csdn、iteye、cnblogs、掘金和V2EX等各大主流博客平台。
-- [JustAuth](https://gitee.com/yadong.zhang/JustAuth): 史上最全的整合第三方登录的工具,目前已支持Github、Gitee、微博、钉钉、百度、Coding、腾讯云开发者平台、OSChina、支付宝、QQ、微信、淘宝、Google、Facebook、抖音、领英、小米、微软和今日头条等第三方平台的授权登录。 Login, so easy!
-- 待续...
-
-# 开源协议
-
-[![license](https://img.shields.io/badge/license-GPL%20v3-yellow.svg)](https://gitee.com/yadong.zhang/DBlog/blob/master/LICENSE)
